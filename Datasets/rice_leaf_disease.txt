@@ -1,0 +1,2 @@
+Our dataset is taken from Kaggle which is 300MB in size, here's the link:
+https://www.kaggle.com/datasets/dedeikhsandwisaputra/rice-leafs-disease-dataset
