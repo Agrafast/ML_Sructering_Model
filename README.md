@@ -7,7 +7,10 @@
 * Playbooks
 
 ## Dataset
-This folder contains dataset links from Kaggle that are used for image processing purposes on three types of plants, namely potatoes, rice, and corn.
+This folder contains dataset links from Kaggle that are used for image processing purposes on three types of plants, namely:
+* potatoes
+* rice
+* corn.
 
 ## Models
 This folder contains the implementation of the image processing architecture model which adopts the Convolutional Neural Network (CNN) method. This CNN model was built to perform image data processing with the aim of classifying or detecting objects in images. This architectural model was developed by considering various factors such as image size, number of class objects, and the complexity of the image processing process encountered.
