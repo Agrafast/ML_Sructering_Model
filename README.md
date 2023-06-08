@@ -1,7 +1,7 @@
 # AGRAFAST
 ## Machine Learning Structuring
 
-###This repository contains the following folders:
+### This repository contains the following folders:
 * Datasets
 * Models
 * Playbooks
